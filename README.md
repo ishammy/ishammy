@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alisha+✨;Full-Stack+Developer+☁️;Digital+Artist+🎨;CTF+Player+🕵️‍♀️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB7C5&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alisha Mei!;Full-Stack+Developer;Digital+Artist;CTF+Player" alt="Typing SVG" />
   <p>
     <b>🌸 3rd Year BSCpE @ PUP Santa Maria 🌸</b> <br>
   </p>
