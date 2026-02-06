@@ -38,15 +38,7 @@
 <h3 align="center">Ambag ko sa Lipunan</h3>
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ishammy&show_icons=true&theme=catppuccin_latte&hide_border=true&cache_seconds=86400"
-  height="150"
-/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishammy&layout=compact&theme=catppuccin_latte&hide_border=true&cache_seconds=86400"
-  height="150"
-/>
 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishammy&theme=github-light&area=true&hide_border=true&bg_color=ffffff&color=FFB7C5" width="100%" />
 
