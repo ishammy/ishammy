@@ -39,7 +39,4 @@
 <div align="center">
 
 
-
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishammy&theme=github-light&area=true&hide_border=true&bg_color=ffffff&color=FFB7C5" width="100%" />
-
 </div>
